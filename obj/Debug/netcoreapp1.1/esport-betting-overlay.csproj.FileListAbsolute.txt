@@ -1,8 +1,0 @@
-/home/robert/code/dotnet/esport-betting-overlay/bin/Debug/netcoreapp1.1/esport-betting-overlay.deps.json
-/home/robert/code/dotnet/esport-betting-overlay/bin/Debug/netcoreapp1.1/esport-betting-overlay.runtimeconfig.json
-/home/robert/code/dotnet/esport-betting-overlay/bin/Debug/netcoreapp1.1/esport-betting-overlay.runtimeconfig.dev.json
-/home/robert/code/dotnet/esport-betting-overlay/bin/Debug/netcoreapp1.1/esport-betting-overlay.dll
-/home/robert/code/dotnet/esport-betting-overlay/bin/Debug/netcoreapp1.1/esport-betting-overlay.pdb
-/home/robert/code/dotnet/esport-betting-overlay/obj/Debug/netcoreapp1.1/esport-betting-overlay.AssemblyInfo.cs
-/home/robert/code/dotnet/esport-betting-overlay/obj/Debug/netcoreapp1.1/esport-betting-overlay.dll
-/home/robert/code/dotnet/esport-betting-overlay/obj/Debug/netcoreapp1.1/esport-betting-overlay.pdb
